@@ -1,4 +1,4 @@
-export const tests = [
+const tests = [
   {
     visit: "/",
     description: "check if Vite is visible",
