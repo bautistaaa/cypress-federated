@@ -1,0 +1,28 @@
+[
+  {
+    "operationName": "https://api.github.com/repos/typehero/typehero/stargazers",
+    "method": "GET",
+    "data": [
+      {
+        "login": "ggrandi",
+        "id": 49359646,
+        "node_id": "MDQ6VXNlcjQ5MzU5NjQ2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49359646?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ggrandi",
+        "html_url": "https://github.com/ggrandi",
+        "followers_url": "https://api.github.com/users/ggrandi/followers",
+        "following_url": "https://api.github.com/users/ggrandi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ggrandi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ggrandi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ggrandi/subscriptions",
+        "organizations_url": "https://api.github.com/users/ggrandi/orgs",
+        "repos_url": "https://api.github.com/users/ggrandi/repos",
+        "events_url": "https://api.github.com/users/ggrandi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ggrandi/received_events",
+        "type": "User",
+        "site_admin": false
+      }
+    ] 
+  }
+]
