@@ -7,3 +7,5 @@ const getTests = () => [
     },
   },
 ];
+
+getTests();
