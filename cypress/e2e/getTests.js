@@ -1,4 +1,4 @@
-const tests = [
+const getTests = () => [
   {
     visit: "/",
     description: "check if Vite is visible",
