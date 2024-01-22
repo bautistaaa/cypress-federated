@@ -8,9 +8,9 @@ const tests = [
   },
   {
     visit: "/",
-    description: "check if ggrandi is visible",
+    description: "check if trash is visible",
     validate: (cy) => {
-      cy.contains("ggrandi");
+      cy.contains("trash");
     },
   },
 ];
